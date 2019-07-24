@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+.tecnologias{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+.tecnologias{
+    background-color: greenyellow;
+    height: 400px;
+}

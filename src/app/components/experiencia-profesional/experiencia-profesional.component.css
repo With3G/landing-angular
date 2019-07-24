@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+.experiencia{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+.experiencia{
+    background-color: green;
+    height: 400px;
+}

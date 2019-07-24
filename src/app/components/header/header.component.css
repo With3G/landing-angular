@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+header{
+    background-color: red;
+    height: 450px;
+}

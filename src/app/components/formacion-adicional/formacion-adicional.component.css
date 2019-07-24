@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+.formacion-adicional{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+.formacion-adicional{
+    background-color: green;
+    height: 400px;
+}

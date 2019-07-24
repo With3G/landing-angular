@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+.sobre-mi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+.sobre-mi{
+    background-color: green;
+    height: 400px;
+}

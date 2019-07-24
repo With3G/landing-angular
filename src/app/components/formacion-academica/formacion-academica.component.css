@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+.formacion-academica{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+.formacion-academica{
+    background-color: greenyellow;
+    height: 400px;
+}

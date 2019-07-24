@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+.contacto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+.contacto{
+    background-color: green;
+    height: 400px;
+}

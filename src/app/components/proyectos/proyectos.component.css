@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+.proyectos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+.proyectos{
+    background-color: greenyellow;
+    height: 400px;
+}

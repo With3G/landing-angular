@@ -1,0 +1,12 @@
+/* ======= Layouts ========== */
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ======= Generic Items ========== */
+footer{
+    background-color: greenyellow;
+    height: 40px;
+}
